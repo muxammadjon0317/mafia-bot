@@ -1,0 +1,2 @@
+start.sh
+python Mafia123.py
